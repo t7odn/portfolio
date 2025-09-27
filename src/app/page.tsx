@@ -42,7 +42,7 @@ export default function Home() {
             About Me
           </h2>
           <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-            広く浅くやりすぎた結果、強味がないエンジニアになってしまったものの末路。
+            浅瀬ちゃぷちゃぷエンジニア
           </p>
         </div>
       </div>
